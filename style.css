@@ -86,3 +86,8 @@ main .trending {
   grid-column:  3 / 4;
   border: 1px solid black;
 }
+
+img[alt*="icon"] {
+  width: 30px;
+  height: 30px;
+}
